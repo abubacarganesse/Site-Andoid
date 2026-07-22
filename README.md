@@ -4,10 +4,6 @@ Um projecto front-end desenvolvido para praticar **HTML5** e **CSS3**, com foco 
 
 O site apresenta um breve conteúdo sobre a história do Android, utilizando uma interface simples, agradável e adaptável a diferentes tamanhos de ecrã.
 
-## 📸 Demonstração
-
-> Adicione aqui um screenshot do projecto.
-
 ##  Tecnologias utilizadas
 
 - HTML5
